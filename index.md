@@ -6,7 +6,7 @@ I'm an NSF postdoctoral assistant professor in the [Mathematics Department](http
 1.  *A note on F-coherent rings*, in preparation.
 2. *Approximating nonreduced Hilbert--Kunz multiplicities*, submitted.
 3. *On F-pure inversion of adjunction* (with T. Polstra and K. Tucker), submitted. [`arXiv`](https://arxiv.org/abs/2305.17591).
-4. *F-purity deforms in Q-Gorenstein rings* (with T. Polstra). [`IMRN`](https://doi.org/10.1093/imrn/rnac254), [`arXiv`](https://arxiv.org/abs/2009.13444).
+4. *$F$-purity deforms in $\mathbb{Q}$-Gorenstein rings* (with T. Polstra). [`IMRN`](https://doi.org/10.1093/imrn/rnac254), [`arXiv`](https://arxiv.org/abs/2009.13444).
 5. *F-nilpotent rings and permanence properties* (with J. Kenkel, K. Maddox, T. Polstra). [`J. Commut. Algebra`](https://projecteuclid.org/journals/jca/journal-of-commutative-algebra/acceptedpapers), [`arXiv`](https://arxiv.org/abs/1912.01150).
 6. *Hilbert-Kunz multiplicity of fibers and Bertini theorems* (with R. Datta). [`J. Algebra`](https://doi.org/10.1016/j.jalgebra.2021.10.025), [`arXiv`](https://arxiv.org/abs/1908.04819).
 
