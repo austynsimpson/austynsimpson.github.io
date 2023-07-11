@@ -3,7 +3,7 @@
 I'm an NSF postdoctoral assistant professor in the [Mathematics Department](https://lsa.umich.edu/math) at the University of Michigan. My research interests are in commutative algebra and algebraic geometry with a focus on singularities in prime characteristic.
 
 ### Papers
-1. *A counterexample to regular ascent for F-rationality* (with E. Quinlan-Gallego and A. Singh), in preparation.
+1. *Regular morphisms do not preserve F-rationality* (with E. Quinlan-Gallego and A. Singh). [`arXiv`](https://arxiv.org/abs/2307.03785)
 2. *A note on F-coherent rings*, in preparation.
 3. *Approximating nonreduced Hilbert--Kunz multiplicities*, submitted.
 4. *On F-pure inversion of adjunction* (with T. Polstra and K. Tucker), submitted. [`arXiv`](https://arxiv.org/abs/2305.17591).
