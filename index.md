@@ -12,7 +12,7 @@ I'm an NSF postdoctoral assistant professor in the [Mathematics Department](http
 7. *Hilbert-Kunz multiplicity of fibers and Bertini theorems* (with R. Datta). [`J. Algebra`](https://doi.org/10.1016/j.jalgebra.2021.10.025), [`arXiv`](https://arxiv.org/abs/1908.04819).
 
 ### Papers with undergraduates
-1. *ACC for F-signature: a likely counterexample* (with C. Adams and T. Sandstrom), in preparation.
+1. *ACC for F-signature: a likely counterexample* (with C. Adams and T. Sandstrom), submitted. [`arXiv`](https://arxiv.org/abs/2309.07901).
 2. *On localization of tight closure in Line-S<sub>4</sub> quartics* (with L. Borevitz, N. Nader, T. Sandstrom, A. Shapiro, J. Zomback), submitted. [`arXiv`](https://arxiv.org/abs/2211.03220).
 
 ###### email: austyn at umich dot edu
