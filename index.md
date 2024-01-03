@@ -6,7 +6,7 @@ I'm an NSF postdoctoral assistant professor in the [Mathematics Department](http
 1. *Noncatenary splinters in prime characteristic* (with S. Loepp). [`arXiv`](https://arxiv.org/abs/2401.00925)
 2. *Regular morphisms do not preserve F-rationality* (with E. Quinlan-Gallego and A. K. Singh), submitted. [`arXiv`](https://arxiv.org/abs/2307.03785).
 3. *The perfection can be a noncoherent GCD domain*, to appear in J. Commut. Algebra. [`arXiv`](https://arxiv.org/abs/2401.00803).
-4. *On F-pure inversion of adjunction* (with T. Polstra and K. Tucker), accepted to Shokurov's 70th birthday volume. [`arXiv`](https://arxiv.org/abs/2305.17591).
+4. *On F-pure inversion of adjunction* (with T. Polstra and K. Tucker), to appear in Shokurov's 70th birthday volume. [`arXiv`](https://arxiv.org/abs/2305.17591).
 5. *F-purity deforms in **Q**-Gorenstein rings* (with T. Polstra). [`IMRN`](https://doi.org/10.1093/imrn/rnac254), [`arXiv`](https://arxiv.org/abs/2009.13444).
 6. *F-nilpotent rings and permanence properties* (with J. Kenkel, K. Maddox, T. Polstra). [`J. Commut. Algebra`](https://projecteuclid.org/journals/jca/journal-of-commutative-algebra/acceptedpapers), [`arXiv`](https://arxiv.org/abs/1912.01150).
 7. *Hilbert-Kunz multiplicity of fibers and Bertini theorems* (with R. Datta). [`J. Algebra`](https://doi.org/10.1016/j.jalgebra.2021.10.025), [`arXiv`](https://arxiv.org/abs/1908.04819).
