@@ -4,7 +4,7 @@ I am an NSF postdoctoral assistant professor in the [Mathematics Department](htt
 
 ### Papers
 1. *Noncatenary splinters in prime characteristic* (with S. Loepp), submitted. [`arXiv`](https://arxiv.org/abs/2401.00925).
-2. *Regular morphisms do not preserve F-rationality* (with E. Quinlan-Gallego and A. K. Singh), submitted. [`arXiv`](https://arxiv.org/abs/2307.03785).
+2. *Flat morphisms with regular fibers do not preserve F-rationality* (with E. Quinlan-Gallego and A. K. Singh), to appear in Rev. Mat. Iberoam. [`RMI`](https://ems.press/journals/rmi/articles/forthcoming), [`arXiv`](https://arxiv.org/abs/2307.03785).
 3. *The perfection can be a noncoherent GCD domain*. To appear in J. Commut. Algebra. [`JCA`](https://projecteuclid.org/journals/jca/journal-of-commutative-algebra/acceptedpapers), [`arXiv`](https://arxiv.org/abs/2401.00803).
 4. *On F-pure inversion of adjunction* (with T. Polstra and K. Tucker), to appear in Higher Dimensional Algebraic Geometry: A Volume in Honor of V.V. Shokurov. [`Book`](https://www.cambridge.org/core/books/higher-dimensional-algebraic-geometry/9353506913A29F9B4343A9EA352EF549),[`arXiv`](https://arxiv.org/abs/2305.17591).
 5. *F-purity deforms in **Q**-Gorenstein rings* (with T. Polstra). Int. Math Res. Not. IMRN (2023) no. 24, 20725–20747. [`IMRN`](https://doi.org/10.1093/imrn/rnac254), [`arXiv`](https://arxiv.org/abs/2009.13444).
