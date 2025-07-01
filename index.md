@@ -1,6 +1,6 @@
 # Austyn Simpson
 
-I am an NSF postdoctoral assistant professor in the [Mathematics Department](https://lsa.umich.edu/math) at the University of Michigan. My research interests are in commutative algebra and algebraic geometry with a focus on singularities in prime characteristic.
+I am a tenure track assistant professor in the [Mathematics Department](https://www.bates.edu/mathematics/) at Bates College. Previously I was an NSF postdoctoral assistant professor at the University of Michigan. My research interests are in commutative algebra and algebraic geometry with a focus on singularities in prime characteristic.
 
 ### Papers
 1. *F-injectivity does not imply F-fullness in normal domains* (with A. De Stefani, T. Polstra), submitted. [`arXiv`](https://arxiv.org/abs/2506.00646).
@@ -29,4 +29,4 @@ I am an NSF postdoctoral assistant professor in the [Mathematics Department](htt
 
 4. *On localization of tight closure in Line-S<sub>4</sub> quartics* (with L. Borevitz, N. Nader, T. Sandstrom, A. Shapiro, J. Zomback). J. Pure Appl. Algebra **228** (2024). [`JPAA`](https://doi.org/10.1016/j.jpaa.2024.107682), [`arXiv`](https://arxiv.org/abs/2211.03220).
 
-###### email: austyn at umich dot edu
+###### email: asimpson2 at bates dot edu
