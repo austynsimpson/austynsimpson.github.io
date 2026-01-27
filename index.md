@@ -5,7 +5,7 @@ I am a tenure-track assistant professor in the [Mathematics Department](https://
 ### Papers
 1. *Bertini's theorem for F-rational F-pure singularities* (with A. De Stefani, T. Polstra), submitted. [`arXiv`](https://arxiv.org/abs/2509.04433).
 
-2. *Hilbert-Kunz multiplicity and F-signature can disagree* (with S. Lee, S. Pande), submitted. [`arXiv`](https://arxiv.org/abs/2508.19985).
+2. *Hilbert-Kunz multiplicity and F-signature can disagree* (with S. Lee, S. Pande), to appear in Bull. Lond. Math. Soc. [`arXiv`](https://arxiv.org/abs/2508.19985).
 
 3. *F-injectivity does not imply F-fullness in normal domains* (with A. De Stefani, T. Polstra), submitted. [`arXiv`](https://arxiv.org/abs/2506.00646).
 
