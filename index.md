@@ -17,7 +17,7 @@ I am a tenure-track assistant professor in the [Mathematics Department](https://
 
 7. *The perfection can be a noncoherent GCD domain*. J. Commut. Algebra **16** (2024) no. 3, 363-367. [`JCA`](https://doi.org/10.1216/jca.2024.16.363), [`arXiv`](https://arxiv.org/abs/2401.00803).
 
-8. *On F-pure inversion of adjunction* (with T. Polstra, K. Tucker). Higher Dimensional Algebraic Geometry: A Volume in Honor of V. V. Shokurov. [`Book`](https://doi.org/10.1017/9781009396233.019),[`arXiv`](https://arxiv.org/abs/2305.17591).
+8. *On F-pure inversion of adjunction* (with T. Polstra, K. Tucker). Higher Dimensional Algebraic Geometry: A Volume in Honor of V. V. Shokurov. [`Book`](https://doi.org/10.1017/9781009396233.019), [`arXiv`](https://arxiv.org/abs/2305.17591).
 
 9. *F-purity deforms in **Q**-Gorenstein rings* (with T. Polstra). Int. Math Res. Not. IMRN (2023) no. 24, 20725–20747. [`IMRN`](https://doi.org/10.1093/imrn/rnac254), [`arXiv`](https://arxiv.org/abs/2009.13444).
 
@@ -29,7 +29,7 @@ I am a tenure-track assistant professor in the [Mathematics Department](https://
 ### Papers with undergraduates
 1. *On deformation of perfectoid purity in Gorenstein domains* (with B. Baily, K. Dovgodko, J. Westbrook), submitted. [`arXiv`](https://arxiv.org/abs/2504.02966).
 
-2. *ACC for F-signature: a likely counterexample* (with C. Adams, T. Sandstrom), to appear in Exp. Math. [`Exp. Math.`](https://doi.org/10.1080/10586458.2025.2470148), [`arXiv`](https://arxiv.org/abs/2309.07901).
+2. *ACC for F-signature: a likely counterexample* (with C. Adams, T. Sandstrom). Exp. Math. **35** (2026) no. 1, 275-286. [`Exp. Math.`](https://doi.org/10.1080/10586458.2025.2470148), [`arXiv`](https://arxiv.org/abs/2309.07901).
 
 3. *Uniform arithmetic in local rings via ultraproducts* (with C. Adams, F. Cantor, A. Gashi, S. Mujevic, S. Park, J. Zomback). Beitr. Algebra Geom. **66** (2025) no. 3, 671–690. [`BZAG`](https://doi.org/10.1007/s13366-024-00761-y), [`arXiv`](https://arxiv.org/abs/2312.17391).
 
