@@ -3,7 +3,7 @@
 I am a tenure-track assistant professor in the [Mathematics Department](https://www.bates.edu/mathematics/) at Bates College. Previously I was an NSF postdoctoral assistant professor at the University of Michigan. My research interests are in commutative algebra and algebraic geometry with a focus on singularities in prime characteristic.
 
 ### Papers
-1. *A Buchsbaum theory for Frobenius closure* (with K. Goel, K. Maddox, L. E. Miller, P. H. Quy), submitted. [`arXiv`](https://arxiv.org/abs/2602.03947).
+1. *A Buchsbaum theory for Frobenius closure* (with K. Goel, K. Maddox, L. E. Miller, P. H. Quy), to appear in J. Lond. Math. Soc. [`arXiv`](https://arxiv.org/abs/2602.03947).
 
 2. *Bertini's theorem for F-rational F-pure singularities* (with A. De Stefani, T. Polstra), submitted. [`arXiv`](https://arxiv.org/abs/2509.04433).
 
