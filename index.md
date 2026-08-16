@@ -3,28 +3,30 @@
 I am a tenure-track assistant professor in the [Mathematics Department](https://www.bates.edu/mathematics/) at Bates College. Previously I was an NSF postdoctoral assistant professor at the University of Michigan. My research interests are in commutative algebra and algebraic geometry with a focus on singularities in prime characteristic.
 
 ### Papers
-1. *A Buchsbaum theory for Frobenius closure* (with K. Goel, K. Maddox, L. E. Miller, P. H. Quy), to appear in J. Lond. Math. Soc. [`arXiv`](https://arxiv.org/abs/2602.03947).
+1. *F-injectivity does not deform* (with K. Schwede), [`preprint`](https://kschwede.github.io/Papers/CounterExample-FInjDef.pdf).
 
-2. *Bertini's theorem for F-rational F-pure singularities* (with A. De Stefani, T. Polstra), submitted. [`arXiv`](https://arxiv.org/abs/2509.04433).
+2. *A Buchsbaum theory for Frobenius closure* (with K. Goel, K. Maddox, L. E. Miller, P. H. Quy), to appear in J. Lond. Math. Soc. [`arXiv`](https://arxiv.org/abs/2602.03947).
 
-3. *Hilbert-Kunz multiplicity and F-signature can disagree* (with S. Lee, S. Pande). Bull. Lond. Math. Soc. **58** (2026) no. 3. [`BLMS`](http://doi.org/10.1112/blms.70304), [`arXiv`](https://arxiv.org/abs/2508.19985).
+3. *Bertini's theorem for F-rational F-pure singularities* (with A. De Stefani, T. Polstra), submitted. [`arXiv`](https://arxiv.org/abs/2509.04433).
 
-4. *F-injectivity does not imply F-fullness in normal domains* (with A. De Stefani, T. Polstra), to appear in Épijournal Géom. Algébrique. [`EpiGA`](https://epiga.episciences.org/browse/accepted-docs), [`arXiv`](https://arxiv.org/abs/2506.00646).
+4. *Hilbert-Kunz multiplicity and F-signature can disagree* (with S. Lee, S. Pande). Bull. Lond. Math. Soc. **58** (2026) no. 3. [`BLMS`](http://doi.org/10.1112/blms.70304), [`arXiv`](https://arxiv.org/abs/2508.19985).
 
-5. *Noncatenary splinters in prime characteristic* (with S. Loepp). J. Algebra **677** (2025), 61-87. [`JofA`](https://doi.org/10.1016/j.jalgebra.2025.03.029), [`arXiv`](https://arxiv.org/abs/2401.00925).
+5. *F-injectivity does not imply F-fullness in normal domains* (with A. De Stefani, T. Polstra), to appear in Épijournal Géom. Algébrique. [`EpiGA`](https://epiga.episciences.org/browse/accepted-docs), [`arXiv`](https://arxiv.org/abs/2506.00646).
 
-6. *Flat morphisms with regular fibers do not preserve F-rationality* (with E. Quinlan-Gallego, A. K. Singh). Rev. Mat. Iberoam. **40** (2024) no. 5, 1989-2001. [`RMI`](https://doi.org/10.4171/RMI/1497), [`arXiv`](https://arxiv.org/abs/2307.03785).
+6. *Noncatenary splinters in prime characteristic* (with S. Loepp). J. Algebra **677** (2025), 61-87. [`JofA`](https://doi.org/10.1016/j.jalgebra.2025.03.029), [`arXiv`](https://arxiv.org/abs/2401.00925).
 
-7. *The perfection can be a noncoherent GCD domain*. J. Commut. Algebra **16** (2024) no. 3, 363-367. [`JCA`](https://doi.org/10.1216/jca.2024.16.363), [`arXiv`](https://arxiv.org/abs/2401.00803).
+7. *Flat morphisms with regular fibers do not preserve F-rationality* (with E. Quinlan-Gallego, A. K. Singh). Rev. Mat. Iberoam. **40** (2024) no. 5, 1989-2001. [`RMI`](https://doi.org/10.4171/RMI/1497), [`arXiv`](https://arxiv.org/abs/2307.03785).
 
-8. *On F-pure inversion of adjunction* (with T. Polstra, K. Tucker). Higher Dimensional Algebraic Geometry: A Volume in Honor of V. V. Shokurov. [`Book`](https://doi.org/10.1017/9781009396233.019), [`arXiv`](https://arxiv.org/abs/2305.17591).
+8. *The perfection can be a noncoherent GCD domain*. J. Commut. Algebra **16** (2024) no. 3, 363-367. [`JCA`](https://doi.org/10.1216/jca.2024.16.363), [`arXiv`](https://arxiv.org/abs/2401.00803).
 
-9. *F-purity deforms in **Q**-Gorenstein rings* (with T. Polstra). Int. Math Res. Not. IMRN (2023) no. 24, 20725–20747. [`IMRN`](https://doi.org/10.1093/imrn/rnac254), [`arXiv`](https://arxiv.org/abs/2009.13444).
+9. *On F-pure inversion of adjunction* (with T. Polstra, K. Tucker). Higher Dimensional Algebraic Geometry: A Volume in Honor of V. V. Shokurov. [`Book`](https://doi.org/10.1017/9781009396233.019), [`arXiv`](https://arxiv.org/abs/2305.17591).
 
-10. *F-nilpotent rings and permanence properties* (with J. Kenkel, K. Maddox, T. Polstra). J. Commut. Algebra **15** (2023) no. 4, 559-575.  
+10. *F-purity deforms in **Q**-Gorenstein rings* (with T. Polstra). Int. Math Res. Not. IMRN (2023) no. 24, 20725–20747. [`IMRN`](https://doi.org/10.1093/imrn/rnac254), [`arXiv`](https://arxiv.org/abs/2009.13444).
+
+11. *F-nilpotent rings and permanence properties* (with J. Kenkel, K. Maddox, T. Polstra). J. Commut. Algebra **15** (2023) no. 4, 559-575.  
    [`JCA`](https://doi.org/10.1216/jca.2023.15.559), [`arXiv`](https://arxiv.org/abs/1912.01150).
    
-11. *Hilbert-Kunz multiplicity of fibers and Bertini theorems* (with R. Datta). J. Algebra **595** (2022), 479-522. [`JofA`](https://doi.org/10.1016/j.jalgebra.2021.10.025), [`arXiv`](https://arxiv.org/abs/1908.04819).
+12. *Hilbert-Kunz multiplicity of fibers and Bertini theorems* (with R. Datta). J. Algebra **595** (2022), 479-522. [`JofA`](https://doi.org/10.1016/j.jalgebra.2021.10.025), [`arXiv`](https://arxiv.org/abs/1908.04819).
 
 ### Papers with undergraduates
 1. *On deformation of perfectoid purity in Gorenstein domains* (with B. Baily, K. Dovgodko, J. Westbrook), submitted. [`arXiv`](https://arxiv.org/abs/2504.02966).
