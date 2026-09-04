@@ -5,7 +5,7 @@ I am a tenure-track assistant professor in the [Mathematics Department](https://
 ### Papers
 1. *F-injectivity does not deform* (with K. Schwede), [`arXiv`](https://arxiv.org/abs/2608.15470).
 
-2. *A Buchsbaum theory for Frobenius closure* (with K. Goel, K. Maddox, L. E. Miller, P. H. Quy), to appear in J. Lond. Math. Soc. [`arXiv`](https://arxiv.org/abs/2602.03947).
+2. *A Buchsbaum theory for Frobenius closure* (with K. Goel, K. Maddox, L. E. Miller, P. H. Quy). J. Lond. Math. Soc. **114** (2026) no. 3. [`JLMS`](https://doi.org/10.1112/jlms.70661), [`arXiv`](https://arxiv.org/abs/2602.03947).
 
 3. *Bertini's theorem for F-rational F-pure singularities* (with A. De Stefani, T. Polstra), submitted. [`arXiv`](https://arxiv.org/abs/2509.04433).
 
