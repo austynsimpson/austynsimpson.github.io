@@ -9,7 +9,7 @@ I am a tenure-track assistant professor in the [Mathematics Department](https://
 
 3. *A Buchsbaum theory for Frobenius closure* (with K. Goel, K. Maddox, L. E. Miller, P. H. Quy). J. Lond. Math. Soc. **114** (2026) no. 3. [`JLMS`](https://doi.org/10.1112/jlms.70661), [`arXiv`](https://arxiv.org/abs/2602.03947).
 
-4. *Bertini's theorem for F-rational F-pure singularities* (with A. De Stefani, T. Polstra), submitted. [`arXiv`](https://arxiv.org/abs/2509.04433).
+4. *Bertini's theorem for F-rational F-pure singularities* (with A. De Stefani, T. Polstra), to appear in Journal für die Reine und Angewandte Mathematik (Crelles Journal). [`arXiv`](https://arxiv.org/abs/2509.04433).
 
 5. *Hilbert-Kunz multiplicity and F-signature can disagree* (with S. Lee, S. Pande). Bull. Lond. Math. Soc. **58** (2026) no. 3. [`BLMS`](http://doi.org/10.1112/blms.70304), [`arXiv`](https://arxiv.org/abs/2508.19985).
 
