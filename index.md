@@ -13,7 +13,7 @@ I am a tenure-track assistant professor in the [Mathematics Department](https://
 
 5. *Hilbert-Kunz multiplicity and F-signature can disagree* (with S. Lee, S. Pande). Bull. Lond. Math. Soc. **58** (2026) no. 3. [`BLMS`](http://doi.org/10.1112/blms.70304), [`arXiv`](https://arxiv.org/abs/2508.19985).
 
-6. *F-injectivity does not imply F-fullness in normal domains* (with A. De Stefani, T. Polstra), to appear in Épijournal Géom. Algébrique. [`EpiGA`](https://epiga.episciences.org/browse/accepted-docs), [`arXiv`](https://arxiv.org/abs/2506.00646).
+6. *F-injectivity does not imply F-fullness in normal domains* (with A. De Stefani, T. Polstra). Épijournal Géom. Algébrique **10** (2026) no. 21. [`EpiGA`](https://doi.org/10.46298/epiga.2026.16680), [`arXiv`](https://arxiv.org/abs/2506.00646).
 
 7. *Noncatenary splinters in prime characteristic* (with S. Loepp). J. Algebra **677** (2025), 61-87. [`JofA`](https://doi.org/10.1016/j.jalgebra.2025.03.029), [`arXiv`](https://arxiv.org/abs/2401.00925).
 
